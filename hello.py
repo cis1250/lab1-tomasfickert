@@ -7,3 +7,7 @@
 # 3. Add another print statement with your favorite hobby.
 
 print("Hello, world!")
+
+printf("My name is Tomas")
+
+printf("My favourite hobby is reading")
